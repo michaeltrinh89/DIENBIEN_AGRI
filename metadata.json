@@ -1,0 +1,6 @@
+{
+  "name": "Điện Biên Agri",
+  "description": "Ứng dụng truy xuất nguồn gốc nông sản và bản đồ vùng sản xuất tỉnh Điện Biên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
